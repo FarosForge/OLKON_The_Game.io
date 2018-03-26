@@ -1,0 +1,13 @@
+{
+"companyName": "Faros Games",
+"productName": "OLKON The Game",
+"dataUrl": "ОЛКОН_ИГРА.data.unityweb",
+"asmCodeUrl": "ОЛКОН_ИГРА.asm.code.unityweb",
+"asmMemoryUrl": "ОЛКОН_ИГРА.asm.memory.unityweb",
+"asmFrameworkUrl": "ОЛКОН_ИГРА.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
